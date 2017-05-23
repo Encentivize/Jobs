@@ -1,6 +1,48 @@
 # Jobs
 Vacancies at Encentivize
 
+
+## Position availalbe for a junior Industrial Psychologist/ Behavioural Consultant
+We are looking for an industrial psychologist to join our dynamic team and product. This individual must be interested in organisational culture, reward and recognition, motivation, behavioural economics as well as technology.
+Our team is dynamic and self-driven and we are looking for someone who is able add value to our product and service offering.
+As a Behavioural Consultant you will navigate clients through the process of defining the behaviors which drive their company objectives and culture. The Behavioral Consultant sets-up – and ensures a smooth implementation of the program and provides a key account management function. The position furthermore requires doing research for product development and writing articles and content for our trendy [Do Work Happy](http://doworkhappy.co.za) and Workpoints [blog sites](http://blog.workpoints.co.za/) on a rotating basis. As part of a new venture, additional duties also include supporting the business in marketing and sales initiatives.
+
+Preferred Qualifications/Experience
+
+- Registered industrial psychologist with the HPCSA
+- Interest or expertise in motivation, rewards/loyalty environment
+- 1-2 years’ work experience (see list below)
+- Must have a valid driver’s license and own vehicle
+- Experience within software development industry will be advantageous.
+  
+Behaviours /Competencies
+
+- Ability to self-manage and think on your feet;
+- Emotionally intelligent;
+- Well presented;
+- Values high quality of work and timeous execution;
+- Enjoys research and sales;
+- Entrepreneurial spirit;
+- Solution orientated;
+- Ability and willingness to fulfil roles beyond normal IOP qualification;
+- Adaptable and flexible;
+- Professional and accountable
+- Ability to listen, debate and defend ideas
+
+Skills
+
+- Broad understanding of behavioral psychology and organizational psychology;
+- Interest in, and understanding of organizational culture;
+- Interest in, and understanding of reward and recognition programmes;
+- Deep understanding of business principles;
+- Business level communication skills (verbal, written and presentation);
+- Project management;
+- Data analysis and solution development;
+- Key account management;
+- Ability to execute;
+- General administration.
+
+
 ## Position for a junior developer on the Encentivize Engineering Team
 Encentivize is hiring! We’re on the hunt for a tech obsessed person to help us build killer products. If you match the below, and think you’d like to join our challenge, drop us a line - we’d love to meet you! 
 
