@@ -42,6 +42,7 @@ Skills
 - Ability to execute;
 - General administration.
 
+To apply please email your cv to sandrak@p-cubed.co.za or contact us on [Facebook](https://www.facebook.com/workpoints), Linked-in(https://www.linkedin.com/company/workpoints) or through www.workpoints.co.za
 
 ## Position for a junior developer on the Encentivize Engineering Team
 Encentivize is hiring! We’re on the hunt for a tech obsessed person to help us build killer products. If you match the below, and think you’d like to join our challenge, drop us a line - we’d love to meet you! 
